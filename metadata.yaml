@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/708
     wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41874#Turha-voittoKertomus
 gutenberg_issued: '2013-01-19'
 gutenberg_type: Text
 identifiers:
