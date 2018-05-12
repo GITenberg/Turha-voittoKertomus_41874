@@ -1,0 +1,37 @@
+_repo: Turha-voittoKertomus_41874
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Elomaa, Vilho
+    gutenberg_agent_id: '41408'
+    url: http://www.gutenberg.org/2009/agents/41408
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chekhov, Anton Pavlovich
+    aliases:
+    - Чехов, Антон Павлович
+    - Chekov, Anton Pavlovich
+    - Tchekhov, Anton
+    - Tshehov, Anton
+    birthdate: 1860
+    deathdate: 1904
+    gutenberg_agent_id: '708'
+    url: http://www.gutenberg.org/2009/agents/708
+    wikipedia: http://en.wikipedia.org/wiki/Anton_Chekhov
+description: ''
+gutenberg_issued: '2013-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41874'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+title: 'Turha voitto: Kertomus'
+url: http://www.gutenberg.org/ebooks/41874
